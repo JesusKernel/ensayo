@@ -1,0 +1,9 @@
+site_name: Ensayo de JESUS
+theme:
+  name: material
+
+nav:
+  - Inicio: index.md
+  - Tema: tema.md
+  - Analisis: analisis.md
+  - Conclusion: conclusion.md
